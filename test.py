@@ -239,3 +239,4 @@ import numpy as np
 a, b, c = 1, 2, 3
 a, b, c = c, a, b
 print(a, b, c)
+import numpy
